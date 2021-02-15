@@ -7,7 +7,7 @@ h1 {
 } */
 
 .header{
-    background-color:#FFFFFF;
+    background-color:#8917FF;
     display: flex;
     text-align: center;
     justify-content: space-between;
@@ -33,4 +33,7 @@ h1 {
 
 p,h2{
     text-align: center;
+}
+body{
+    background-color:#9015A2;
 }
