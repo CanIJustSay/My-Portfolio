@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(231, 104, 231);
+    color:#FFFFFF;
 }
 
 /** {
@@ -7,7 +7,7 @@ h1 {
 } */
 
 .header{
-    background-color: rgb(84, 68, 228);
+    background-color:#FFFFFF;
     display: flex;
     text-align: center;
     justify-content: space-between;
