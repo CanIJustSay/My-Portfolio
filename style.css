@@ -7,23 +7,17 @@ h1 {
 /** {
     border: solid;
 } */
-.header * {
-   /* border:solid; 
-    border-color:#c364fa;
-    border-width: 5.5px;
-    border-radius: 10%;
-*/
-}
-.header{
+
+.header {
     background-color:#8917FF;
     display: flex;
     text-align: center;
-    justify-content: space-between;
-    
+    justify-content: space-evenly;
+    border-color:red;
 
 }
 .menu{
-    margin: 100px;
+    margin: 10px;
 }
 .site-description{
     display: flex;
@@ -68,9 +62,7 @@ a:visited{
  left: 50%;
  transform: translate(-50%,-50%);
 }
-.item:hover p{
-    opacity: 1;
-}
+
 .item:hover img{
     opacity: 0.33;
 }
